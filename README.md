@@ -37,7 +37,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:**SIH26140
+* **Problem Statement Title:**AI-Based Interactive Quantum Algorithm Learning Platform
+* **Theme / Category:**Software
+* **Ministry / Organization:**Egreen Quanta
