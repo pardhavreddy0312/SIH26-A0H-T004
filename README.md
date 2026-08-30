@@ -13,7 +13,7 @@
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |   A PARDHAV REDDY       |    CB.AI.U4CPS25059    |      Male       |         AID(CPS)                |  
 |    Member 2     |   DHIREN VASUDEVA       |    CB.AI.U4CPS25014    |      Male       |         AID(CPS)                |  
-|    Member 3     | CHUNDURU VENKATA ABHIRAM|    CB.AI.U4CPS25023    |     Female      |         AID(CPS)                |  
+|    Member 3     | CHUNDURU VENKATA ABHIRAM|    CB.AI.U4CPS25012    |      Male       |         AID(CPS)                |  
 |    Member 4     |     POOVYA S            |    CB.AI.U4CPS25061    |     Female      |         AID(CPS)                |   
 |    Member 5     |    MADHUMITHA S         |    CB.AI.U4CPS25026    |     Female      |         AID(CPS)                |  
 |    Member 6     |     MAHIZHA S           |    CB.AI.U4CPS25027    |     Female      |         AID(CPS)                |   
