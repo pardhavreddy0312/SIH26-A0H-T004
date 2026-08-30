@@ -11,18 +11,18 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |   A PARDHAV REDDY       |    CB.AI.U4CPS25059    |      Male       |                                 |  
-|    Member 2     |   DHIREN VASUDEVA       |    CB.AI.U4CPS25014    |      Male       |                                 |  
-|    Member 3     |CHUNDURU VENKATA ABHIRAM |    CB.AI.U4CPS25012    |      Male       |                                 |  
-|    Member 4     |     POOVYA S            |    CB.AI.U4CPS25061    |     Female      |                                 |   
-|    Member 5     |    MADHUMITHA S         |    CB.AI.U4CPS25026    |     Female      |                                 |  
-|    Member 6     |     MAHIZHA S           |    CB.AI.U4CPS25027    |     Female      |                                 |   
+|   Team Leader   |   A PARDHAV REDDY       |    CB.AI.U4CPS25059    |      Male       |         AID(CPS)                |  
+|    Member 2     |   DHIREN VASUDEVA       |    CB.AI.U4CPS25014    |      Male       |         AID(CPS)                |  
+|    Member 3     | CHUNDURU VENKATA ABHIRAM|    CB.AI.U4CPS25023    |     Female      |         AID(CPS)                |  
+|    Member 4     |     POOVYA S            |    CB.AI.U4CPS25061    |     Female      |         AID(CPS)                |   
+|    Member 5     |    MADHUMITHA S         |    CB.AI.U4CPS25026    |     Female      |         AID(CPS)                |  
+|    Member 6     |     MAHIZHA S           |    CB.AI.U4CPS25027    |     Female      |         AID(CPS)                |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |   Dr. Nitha P K     |  Assistant Professor  |    Amrita School of AI  |  pk_nitha@cb.amrita.edu  |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -31,10 +31,10 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:SIH26141
+* **Problem Statement Title:Quantum-Inspired Cyber Threat Detection for Digital Signature Security
+* **Theme / Category:Software
+* **Ministry / Organization:Egreen Quanta, wherever applicable
 
 #### PS#2
 
