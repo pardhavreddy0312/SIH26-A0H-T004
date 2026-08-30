@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T004
 ### Team Details
-#### **Team Name** <<ARISTELLAR>> <br/>
+#### **Team Name** <<ARISTELLA>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
