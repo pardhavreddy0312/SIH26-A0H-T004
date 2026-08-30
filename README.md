@@ -23,7 +23,6 @@
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
 | Academic       |   Dr. Nitha P K     |  Assistant Professor  |    Amrita School of AI  |  pk_nitha@cb.amrita.edu  |
-| Industry       |                     |                       |                         |                          |
 
 -----
 
@@ -34,7 +33,7 @@
 * **Problem Statement ID:SIH26141
 * **Problem Statement Title:Quantum-Inspired Cyber Threat Detection for Digital Signature Security
 * **Theme / Category:Software
-* **Ministry / Organization:Egreen Quanta, wherever applicable
+* **Ministry / Organization:Egreen Quanta
 
 #### PS#2
 
