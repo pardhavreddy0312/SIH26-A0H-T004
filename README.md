@@ -9,14 +9,14 @@
 ### Team Details
 #### **Team Name** <<ARISTELLA>> <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |   A PARDHAV REDDY       |    CB.AI.U4CPS25059    |      Male       |         AID(CPS)                |  
-|    Member 2     |   DHIREN VASUDEVA       |    CB.AI.U4CPS25014    |      Male       |         AID(CPS)                |  
-|    Member 3     | CHUNDURU VENKATA ABHIRAM|    CB.AI.U4CPS25012    |      Male       |         AID(CPS)                |  
-|    Member 4     |     POOVYA S            |    CB.AI.U4CPS25061    |     Female      |         AID(CPS)                |   
-|    Member 5     |    MADHUMITHA S         |    CB.AI.U4CPS25026    |     Female      |         AID(CPS)                |  
-|    Member 6     |     MAHIZHA S           |    CB.AI.U4CPS25027    |     Female      |         AID(CPS)                |   
+|      Role       |        👤 Name          |   🎓 Roll Number      |    ⚧️ Gender   |    🏫 Department / Programme  |  Caste Category  |  Disability Details  | 
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-----------------------------:|:----------------:|:--------------------:|
+|   Team Leader   |   A PARDHAV REDDY       |    CB.AI.U4CPS25059    |      Male       |         AID(CPS)              |        OC        |         None         |
+|    Member 2     |   DHIREN VASUDEVA       |    CB.AI.U4CPS25014    |      Male       |         AID(CPS)              |        OC        |         None         |
+|    Member 3     | CHUNDURU VENKATA ABHIRAM|    CB.AI.U4CPS25012    |      Male       |         AID(CPS)              |        OC        |         None         |
+|    Member 4     |     POOVYA S            |    CB.AI.U4CPS25061    |     Female      |         AID(CPS)              |        OC        |         None         |
+|    Member 5     |    MADHUMITHA S         |    CB.AI.U4CPS25026    |     Female      |         AID(CPS)              |        BC        |         None         |
+|    Member 6     |     MAHIZHA S           |    CB.AI.U4CPS25027    |     Female      |         AID(CPS)              |        BC        |         None         |
 
 #### Mentor Details
 
